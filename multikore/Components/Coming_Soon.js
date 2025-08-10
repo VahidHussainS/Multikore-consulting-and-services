@@ -115,6 +115,7 @@ const ComingSoonPage = () => {
             fontFamily: "'Montserrat', Arial, sans-serif",
           }}
         >
+          Email : info@multikore.com
           Ph: +91-9741675001
         </div>
       </div>
