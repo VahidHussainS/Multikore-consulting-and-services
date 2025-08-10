@@ -116,6 +116,7 @@ const ComingSoonPage = () => {
           }}
         >
           Email : info@multikore.com
+          <br></br>
           Ph: +91-9741675001
         </div>
       </div>
